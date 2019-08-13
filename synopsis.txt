@@ -1,0 +1,21 @@
+TITLE:
+
+      HOSPITAL MANAGEMENT SYSTEM  
+ 
+Objectives:
+
+        This is a simple mini project in C programming language. Hospital management system project is just a console application without graphics. This project mainly uses file handling to perform basic operations like how to add, edit, search and delete record using file. 
+ 
+Description in points:
+
+
+This mini project, like any other, is built without graphics and comes with simple file handling operations. 
+The key features in hospital management system are: 
+1. Add new patient record: 
+In this feature, user can add a new patient record choosing between O.P.D. service and Emergency service. Name, address, age, sex, disease description and specialist room number to be referred are the data to be entered for both O.P.D and Emergency service. Thus given information is stored in file. 
+2. Search or edit patient record: 
+ In this mini project, two features – searching and editing patient records are placed under a single feature. User can search or edit via. record number of the patient or his/her full name. Also, user can view the list of expenditures of the particular patient whose record is sought. In the program, the financial information include total charge, total deposited and total money to return. 
+3. List record of patients: 
+In hospital management system c project, users can list patient records by choosing any one of the two options listed below: 
+• Records of Emergency patients • Records of O.P.D. patients 
+ 
